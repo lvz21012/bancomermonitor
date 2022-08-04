@@ -5,10 +5,22 @@ repo: bancomermonitor # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Hogar
+    url: https://cotizadores.bbvaseguros.mx/psns_mult_web_psnspublicwebapp_02/seguroHogarDinamico#/paso1-perfilador
+  - name: Vida
+    url: https://seguros.bbva.mx/index.html#!/segurovida/cuestionarioPerfilador
+  - name: Medico particular
+    url: https://seguros.bbva.mx/index.html#!/seguro-salud-particular/intro
+  - name: Mascotas
+    url: https://seguros.bbva.mx/index.html#!/seguro-para-mascotas
+  - name: Estudia
+    url: https://cotizadores.bbvaseguros.mx/psns_mult_web_psnspublicwebapp_02/seguroEstudia#/paso1-perfilador
+  - name: TLMK
+    url: https://segbancomer.mx/psmx_mult_web_psmxwebapp_01/public/login
+  - name: Auto
+    url: https://cotizadores.bbvaseguros.mx/psns_mult_web_psnspublicwebapp_02/autoSeguroBancomer#/paso1-datos-basicos-auto
+  - name: Wibe
+    url: https://www.wibe.com/cotizadores/seguro-auto#/paso1-datos-basicos-auto-conductor
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
