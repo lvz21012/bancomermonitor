@@ -22,18 +22,20 @@
     "url": "https://cotizadores.bbvaseguros.mx/psns_mult_web_psnspublicwebapp_02/seguroHogarDinamico#/paso1-perfilador",
     "icon": "https://favicons.githubusercontent.com/cotizadores.bbvaseguros.mx",
     "slug": "hogar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 845,
-    "timeWeek": 629,
-    "timeMonth": 701,
-    "timeYear": 701,
-    "dailyMinutesDown": {}
+    "time": 823,
+    "timeDay": 1878,
+    "timeWeek": 914,
+    "timeMonth": 823,
+    "timeYear": 823,
+    "dailyMinutesDown": {
+      "2022-08-20": 1
+    }
   },
   {
     "name": "Vida",
@@ -94,18 +96,20 @@
     "url": "https://cotizadores.bbvaseguros.mx/psns_mult_web_psnspublicwebapp_02/seguroEstudia#/paso1-perfilador",
     "icon": "https://favicons.githubusercontent.com/cotizadores.bbvaseguros.mx",
     "slug": "estudia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 424,
-    "timeWeek": 371,
-    "timeMonth": 329,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 459,
+    "timeDay": 1552,
+    "timeWeek": 659,
+    "timeMonth": 459,
+    "timeYear": 459,
+    "dailyMinutesDown": {
+      "2022-08-20": 0
+    }
   },
   {
     "name": "TLMK",
@@ -130,36 +134,40 @@
     "url": "https://cotizadores.bbvaseguros.mx/psns_mult_web_psnspublicwebapp_02/autoSeguroBancomer#/paso1-datos-basicos-auto",
     "icon": "https://favicons.githubusercontent.com/cotizadores.bbvaseguros.mx",
     "slug": "auto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 263,
-    "timeWeek": 331,
-    "timeMonth": 345,
-    "timeYear": 345,
-    "dailyMinutesDown": {}
+    "time": 463,
+    "timeDay": 1363,
+    "timeWeek": 597,
+    "timeMonth": 463,
+    "timeYear": 463,
+    "dailyMinutesDown": {
+      "2022-08-20": 0
+    }
   },
   {
     "name": "Wibe",
     "url": "https://www.wibe.com/cotizadores/seguro-auto#/paso1-datos-basicos-auto-conductor",
     "icon": "https://favicons.githubusercontent.com/www.wibe.com",
     "slug": "wibe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 2438,
-    "timeWeek": 983,
-    "timeMonth": 828,
-    "timeYear": 828,
-    "dailyMinutesDown": {}
+    "time": 942,
+    "timeDay": 2665,
+    "timeWeek": 1222,
+    "timeMonth": 942,
+    "timeYear": 942,
+    "dailyMinutesDown": {
+      "2022-08-20": 0
+    }
   },
   {
     "name": "Test Broken Site",
